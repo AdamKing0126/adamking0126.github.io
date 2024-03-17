@@ -18,7 +18,7 @@ Two things jumped out at me right away.  First:
 > - The sovereignty or integrity of India, defense of India, the security of the state.
 > - Friendly relations with foreign states.
 > - Public order, or for preventing incitement to the commission of any     
-> - cognizable offense relating to these.
+>   cognizable offense relating to these.
 > - Investigating any offense.
 
 That is some seriously dystopian shit.  I don't really know what else I can say about that.  In fact, I think I need to go lie down for a minute.
