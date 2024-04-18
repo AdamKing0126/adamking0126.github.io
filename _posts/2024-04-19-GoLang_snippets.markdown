@@ -1,9 +1,8 @@
 --- 
 layout: post
-title: "GoLang Snippets"
+title: "Golang Snippets"
 date: 2024-04-18 0:00:00
 ---
-# Golang Snippets #
 
 I'm a Go rookie, so I'm going to use this page to collect handy patterns/snippets.
 
