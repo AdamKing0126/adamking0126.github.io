@@ -1,5 +1,5 @@
 --- 
-layout: posts
+layout: post
 title: "GoLang Snippets"
 date: 2024-04-18 0:00:00
 ---
