@@ -1,12 +1,9 @@
 --- 
 layout: post
-title: "Golang Snippets"
+title: "Golang Snippets: Pretty-print a JSON Blob"
+tags: golang snippets
 date: 2024-04-18 0:00:00
 ---
-
-I'm a Go rookie, so I'm going to use this page to collect handy patterns/snippets.
-
-### Pretty-print a JSON blob ###
 
 Sometimes when you make a network request, you get a blob of JSON that you don't entirely know the shape of.  This is a bit awkward, because if you don't know the data's shape, you can't make a struct to deserialize the data to.
 
