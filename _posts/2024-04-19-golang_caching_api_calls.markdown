@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Golang Snippets: Storing and Retrieving API Data with a Database"
+title: "Golang Snippets: Caching API Calls"
 tags: golang snippets
 date: 2024-04-19 0:00:00
 ---
