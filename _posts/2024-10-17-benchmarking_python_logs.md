@@ -84,7 +84,7 @@ The result:
 This makes sense, because we compose the result of `should_not_be_called` and pass it as an argument to the `debug` function.  It would not matter if we wrote the code with percent-formatting or with f-strings, like this:
 `logger.debug('f{should_not_be_called()}')`.  Either way, we must create the string before we can pass it as an argument to the `debug` function.  
 
-So the issue can't be about log levels.  Not *directly*, anyhow.
+So the issue isn't to do with firing off an expensive transaction whose output is sent to the logger.
 
 ### Could it be an issue with the actual string interpolation?
 
